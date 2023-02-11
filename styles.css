@@ -279,6 +279,36 @@ body{
 
 
 
+/* footer section */
+#footer{
+    background-color: #000;
+    color: #fff;
+    text-align: center; 
+    padding: 3% 15%; 
+}
+
+.footer-icons{
+    margin: 20px 10px;
+     padding: 1%; 
+}
+
+/* Scroll up */
+
+.top{
+	position: fixed;
+	bottom: 2rem;
+	right: 2rem;
+}
+ 
+.top i{
+	font-size: 35px;
+    color: yellow;
+	padding: 14px;
+	border-radius: 2rem;
+}
+
+
+
 
 
 /* Media Queries */
